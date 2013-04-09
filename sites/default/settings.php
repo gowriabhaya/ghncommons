@@ -34,7 +34,6 @@
  *   );
  * @endcode
  */
-/*
 $databases = array (
   'default' => 
   array (
@@ -50,23 +49,6 @@ $databases = array (
     ),
   ),
 );
-*/
-$databases = array (
-  'default' => 
-  array (
-    'default' => 
-    array (
-      'database' => 'drupal',
-      'username' => 'lina',
-      'password' => 'WNdQFkfv',
-      'host' => 'tunnel.pagodabox.com:3306',
-      'port' => '',
-      'driver' => 'mysql',
-      'prefix' => '',
-    ),
-  ),
-);
-
 /**
  * Access control for update.php script.
  *
