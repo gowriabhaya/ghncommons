@@ -28,8 +28,8 @@ $i = 0;
  */
 $i++;
 /* Authentication type */
-$cfg['Servers'][$i]['user'] = 'lina';
-$cfg['Servers'][$i]['password'] = 'WNdQFkfv';
+$cfg['Servers'][$i]['user'] = 'charles';
+$cfg['Servers'][$i]['password'] = 'MTpg7fak';
 $cfg['Servers'][$i]['auth_type'] = 'config';
 //$cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
