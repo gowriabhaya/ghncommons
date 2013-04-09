@@ -33,7 +33,7 @@ $cfg['Servers'][$i]['password'] = 'WNdQFkfv';
 $cfg['Servers'][$i]['auth_type'] = 'config';
 //$cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
-$cfg['Servers'][$i]['host'] = 'tunnel.pagodabox.com:3306';
+$cfg['Servers'][$i]['host'] = 'tunnel.pagodabox.com';
 $cfg['Servers'][$i]['connect_type'] = 'tcp';
 $cfg['Servers'][$i]['compress'] = false;
 /* Select mysqli if your server has it */
