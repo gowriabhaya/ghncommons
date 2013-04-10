@@ -301,7 +301,7 @@ function commons_anonymous_welcome_text_form() {
     '#title' => st('Welcome headline'),
     '#description' => st('A short description of the community that visitors can understand at a glance.'),
     '#required' => TRUE,
-    '#default_value' => st('Welcome to our community'),
+    '#default_value' => st('Global Heart Network Foundation'),
   );
 
   $form['commons_anonymous_welcome_body'] = array(
@@ -309,7 +309,7 @@ function commons_anonymous_welcome_text_form() {
     '#title' => st('Welcome body text'),
     '#description' => st('Enter a couple of sentences elaborating about your community.'),
     '#required' => TRUE,
-    '#default_value' => st('Share your thoughts, find answers to your questions.'),
+    '#default_value' => st('GHN is a global non-profit organization with a mission to connect people and organizations focused on the delivery of cardiovascular care across the Globe.'),
   );
 
   $form['commons_install_example_content'] = array(
